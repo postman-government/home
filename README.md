@@ -1,5 +1,5 @@
 # Federal Agencies
-This is an index of all of the fedeeral agencies listed in this organization.
+This is an index of all of the fedeeral agencies listed in this organization--you can find [a machine readable APIs.json for this index here](https://raw.githubusercontent.com/postman-government/home/master/apis.json).
 
 | Agency | Repo | Setting | Website | 
 |:--|---|---|---|
